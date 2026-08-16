@@ -1,0 +1,5 @@
+location_id,name,latitude,longitude,video_file,corridor_name
+L1,Sector 37 Expressway (Noida-Faridabad),28.5672,77.3211,videos/location_1.mp4,NH-44 Connector
+L2,Ring Road Arterial,28.6139,77.2090,videos/location_2.mp4,State Highway 12
+L3,Industrial Corridor NH-8,28.4595,77.0266,videos/location_3.mp4,Freight Route A
+L4,Bhiwandi Freight Bypass,19.2967,73.0631,videos/location_4.mp4,Monsoon Sector 4

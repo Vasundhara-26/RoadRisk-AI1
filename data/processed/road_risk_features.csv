@@ -1,0 +1,5 @@
+location_id,historical_risk,historical_accidents,historical_fatalities,blackspot_flag,vehicle_count,traffic_density,pothole_count,road_damage_score,waterlogging
+L1,26.0,8,1,0,38,0.35,0,0.05,0
+L2,51.0,22,4,0,45,0.65,2,0.30,0
+L3,58.0,31,6,1,28,0.72,6,0.68,1
+L4,62.0,44,9,1,34,0.88,14,0.92,1
